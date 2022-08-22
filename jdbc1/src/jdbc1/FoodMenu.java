@@ -70,7 +70,6 @@ public class FoodMenu {
 			System.out.println("Records inserted successfully");
 
 		} catch (SQLException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
